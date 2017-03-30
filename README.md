@@ -9,7 +9,7 @@ Labs
 3. Table Driven Schedule
 4. EDF and LLF for grad students
 5. Fixed priority
-6. 5
+6. see 5
 7. Resource sharing, prioirty inheratance and priority cealing, stack resource
 8. see 7
 9. comunication
